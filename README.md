@@ -3,5 +3,5 @@ Attempting to apply what I know about modular arithmetic to an encryption progra
 
 Run rsa.py to use
 
-Documents (mostly) commented out.
-"Lock" is encoded as first number, "sublock as second.
+Code is (mostly) commented out.
+"Lock" is encoded as first number, "key" as second.
